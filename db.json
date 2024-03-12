@@ -1,0 +1,22 @@
+{
+  "shoes": [
+    {
+      "id": "1asd1",
+      "title": "Adidas 4DFWD",
+      "subtitle": "The Adidas 4DFWD impressed us from the start with its jaw-dropping midsole.",
+      "image": "https://cdn.runrepeat.com/storage/gallery/product_primary/37536/adidas-4-dfwd-21166014-1440.jpg"
+    },
+    {
+      "id": "2asdj",
+      "title": "Hoka Bondi 8",
+      "subtitle": "The 8th iteration of the Hoka Bondi remains our beloved plush and cushy daily trainer that excels on easy days and recovery sessions.",
+      "image": "https://cdn.runrepeat.com/storage/gallery/product_primary/38861/hoka-bondi-8-21232045-1440.jpg"
+    },
+    {
+      "id": "3aklsf",
+      "title": "Adidas Harden Vol. 7",
+      "subtitle": "We have reason to believe that nimble guards and big players are going to have lots of fun playing in Adidas Harden Vol. 7 shoes. ",
+      "image": "https://cdn.runrepeat.com/storage/gallery/product_primary/39565/adidas-harden-vol-7-21158484-1440.jpg"
+    }
+  ]
+}
